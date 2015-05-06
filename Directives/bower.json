@@ -1,0 +1,16 @@
+{
+  "name": "directives",
+  "version": "0.1.0",
+  "authors": [
+    "sankara <sthamaraivinayagam@gmail.com>"
+  ],
+  "description": "about directives",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
